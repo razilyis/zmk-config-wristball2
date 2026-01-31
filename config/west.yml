@@ -20,7 +20,7 @@ manifest:
       revision: main
     - name: zmk-pmw3610-driver-wristball2
       remote: razilyis
-      revision: 45deg_Prospector-Scanner
+      revision: 45deg_rotation
     - name: zmk-rgbled-widget
       remote: gohanda11
       revision: main
