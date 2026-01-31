@@ -20,13 +20,13 @@ manifest:
       revision: main
     - name: zmk-pmw3610-driver-wristball2
       remote: razilyis
-      revision: 45deg_rotation
+      revision: 45deg_Prospector-Scanner
     - name: zmk-rgbled-widget
       remote: gohanda11
       revision: main
     - name: prospector-zmk-module
       remote: prospector
-      revision: v2.0.0
+      revision: for_wristball2
       path: modules/prospector-zmk-module
   self:
     path: config
