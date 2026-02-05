@@ -4,7 +4,6 @@
 / {
     chosen {
         zmk,physical-layout = &wristball2_physical_layout;
-        zmk,battery = &non_lipo_battery;
     };
 
     wristball2_physical_layout: wristball2_physical_layout {
